@@ -1,4 +1,4 @@
-#This Code was Written on [Nov-18-2019] by @riishiiraz
+# This Code was Written on [Nov-18-2019] by @riishiiraz for School Project
 
 """
 Python Program For Simple School Management
